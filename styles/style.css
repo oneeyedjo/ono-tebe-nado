@@ -53,10 +53,9 @@
   height: 757px;
   right: 0;
   z-index: -1; 
-  
 }
 
-.overlay{
+.overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -66,7 +65,7 @@
   z-index: 0;
 }
 
-.cover__title{
+.cover__title {
   font-size: 100px;
   text-transform:uppercase;
 }
@@ -307,7 +306,7 @@
   padding-right: 50px;
 }
 
-.footer__social-icon{
+.footer__social-icon {
   width: 48px;
   height: 48px;
 }
